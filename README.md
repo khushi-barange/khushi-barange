@@ -1,6 +1,6 @@
 # Hi there, I'm Khushi Barange 👋  
 
-🎯 Data Analyst | 🧠 Problem Solver | 📊 Turning Complex Data into Meaningful Insights  
+🎯 Data Analyst | 🧠 Problem Solver | 📊 Turning Complex Data into Meaningful Insights
 
 I hold a Master’s degree in Biotechnology and my journey into Data Analytics began during my research experience at IIIT Delhi, where I worked on single-cell RNA sequencing data analysis.  
 
