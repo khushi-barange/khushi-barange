@@ -14,7 +14,7 @@ Currently, I actively work on projects involving data cleaning, transformation, 
 
 ## 📌 Programming & Query Languages
 - Python  
-- SQL / MySQL  
+- SQL / MySQL / PostgreSQL
 
 ## 📌 Data Analysis & Visualization
 - Power BI  
