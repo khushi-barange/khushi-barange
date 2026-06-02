@@ -17,7 +17,8 @@ Currently, I actively work on projects involving data cleaning, transformation, 
 - SQL / MySQL / PostgreSQL
 
 ## 📌 Data Analysis & Visualization
-- Power BI  
+- Power BI
+- Tableau
 - Advanced Excel  
 - Pandas  
 - NumPy  
