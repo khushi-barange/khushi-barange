@@ -76,7 +76,7 @@ Currently, I actively work on projects involving data cleaning, transformation, 
 - Passion for extracting insights from messy data  
 - Continuous improvement and skill development  
 
-I believe data has the power to drive smarter decisions, improve organizations, and solve real-world problems when analyzed effectively.  
+I believe data has the power to drive smarter decisions, improve organizations, and solve real-world problems when analyzed effectively.
 
 ---
 
