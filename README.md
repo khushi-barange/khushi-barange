@@ -1,4 +1,4 @@
-# Hi there, I'm Khushi Barange 👋  
+# Hi there, I'm Khushi Barange 👋
 
 🎯 Data Analyst | 🧠 Problem Solver | 📊 Turning Complex Data into Meaningful Insights
 
@@ -6,7 +6,7 @@ I hold a Master’s degree in Biotechnology and my journey into Data Analytics b
 
 While working with large-scale biological datasets, I became fascinated by how raw, unstructured, and complex data can be transformed into actionable insights. That experience motivated me to deeply explore Data Analytics and build strong technical expertise in data handling, visualization, and analytical problem-solving.  
 
-Currently, I actively work on projects involving data cleaning, transformation, visualization, dashboard development, and business insights extraction. I enjoy diving deep into data, identifying patterns, and solving real-world problems through analytical thinking.  
+Currently, I actively work on projects involving data cleaning, transformation, visualization, dashboard development, and business insights extraction. I enjoy diving deep into data, identifying patterns, and solving real-world problems through analytical thinking.   
 
 ---
 
