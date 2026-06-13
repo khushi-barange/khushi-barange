@@ -81,12 +81,13 @@ I believe data has the power to drive smarter decisions, improve organizations, 
 ---
 
 # 📚 Currently Exploring  
-- Advanced Data Analytics  
+- Advanced Data Analytics 
 - Business Intelligence
 - Artificial intelligence
 - Machine Learning Fundamentals  
 - Statistical Analysis  
-- Data Storytelling & Visualization  
+- Data Storytelling & Visualization
+- Deep learning
 
 ---
 
