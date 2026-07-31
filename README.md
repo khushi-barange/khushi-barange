@@ -1,6 +1,6 @@
 # Hi there, I'm Khushi Barange 👋
 
-## 🎯 Data Analyst | 📈 Business Analyst | 🧠 Problem Solver
+## 🎯 Data Analyst
 
 I am a passionate **Data Analyst** with a Master's degree in Biotechnology and hands-on experience in **Data Analytics, Business Analysis, Business Intelligence, and Research Analytics**.
 
@@ -59,8 +59,7 @@ I enjoy solving business problems through data, uncovering hidden patterns, and 
 - RStudio
 - Google Sheets
 - Microsoft Excel
-- LinkedIn Sales Navigator
-- Apollo.io
+
 
 ---
 
