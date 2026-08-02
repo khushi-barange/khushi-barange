@@ -1,6 +1,6 @@
 # Hi there, I'm Khushi Barange 👋
 
-## 🎯 Data Analyst
+##  Data Analyst
 
 I am a passionate **Data Analyst** with a Master's degree in Biotechnology and hands-on experience in **Data Analytics, Business Analysis, Business Intelligence, and Research Analytics**.
 
@@ -14,15 +14,15 @@ I enjoy solving business problems through data, uncovering hidden patterns, and 
 
 ---
 
-# 🚀 Technical Skills
+# Technical Skills
 
-## 💻 Programming & Databases
+##  Programming & Databases
 - Python
 - SQL
 - MySQL
 - PostgreSQL
 
-## 📊 Data Analytics & Business Intelligence
+##  Data Analytics & Business Intelligence
 - Power BI
 - Tableau
 - Advanced Excel
@@ -36,13 +36,13 @@ I enjoy solving business problems through data, uncovering hidden patterns, and 
 - Data Visualization
 - KPI Development
 
-## 🐍 Python Libraries
+##  Python Libraries
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 
-## 📈 Business Analysis
+##  Business Analysis
 - Business Process Analysis
 - Process Flow Mapping
 - Business Process Documentation
@@ -53,7 +53,7 @@ I enjoy solving business problems through data, uncovering hidden patterns, and 
 - SDLC Fundamentals
 - Stakeholder Analysis
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Git & GitHub
 - Jupyter Notebook
 - RStudio
@@ -63,9 +63,9 @@ I enjoy solving business problems through data, uncovering hidden patterns, and 
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
-## 📊 Data Analyst Intern
+##  Data Analyst Intern
 ### WebMobi360 | Present
 
 Working on real-world business analytics projects to support data-driven decision-making across different business functions.
@@ -74,9 +74,9 @@ Working on real-world business analytics projects to support data-driven decisio
 
 - Designed and developed interactive Power BI dashboards for business reporting and KPI tracking.
 - Built dashboards including:
-  - 📈 Sales Performance Dashboard
-  - 📦 Order Fulfillment Dashboard
-  - 👥 Customer Churn Dashboard
+  -  Sales Performance Dashboard
+  -  Order Fulfillment Dashboard
+  -  Customer Churn Dashboard
 - Cleaned, transformed, and analyzed business datasets using Excel, SQL, and Power BI.
 - Created business reports and analytical dashboards to communicate insights effectively.
 - Conducted market research and competitor analysis.
@@ -93,7 +93,7 @@ Power BI • SQL • Excel • Google Sheets • LinkedIn • Apollo.io
 
 ---
 
-## 📈 Business Analyst Intern
+##  Business Analyst Intern
 ### AperioHub
 
 Worked on business strategy and ESG investment analysis by developing structured evaluation frameworks for investment decision-making.
@@ -116,7 +116,7 @@ Excel • PowerPoint • Business Research • Market Research • Data Analysis
 
 ---
 
-## 🔬 Computational Biology Research Trainee
+##  Computational Biology Research Trainee
 ### Indraprastha Institute of Information Technology Delhi (IIIT Delhi)
 
 Worked on **Triple Negative Breast Cancer (TNBC)** research using **single-cell RNA sequencing (scRNA-seq)** datasets.
@@ -135,9 +135,9 @@ Python • R • Scanpy • Seurat • Pandas • NumPy
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## 📈 Sales Performance Dashboard
+##  Sales Performance Dashboard
 
 Developed an interactive Power BI dashboard to monitor sales performance and business KPIs.
 
@@ -154,7 +154,7 @@ Developed an interactive Power BI dashboard to monitor sales performance and bus
 
 ---
 
-## 📦 Order Fulfillment Dashboard
+##  Order Fulfillment Dashboard
 
 Designed a business dashboard to analyze operational efficiency and order fulfillment performance.
 
@@ -171,7 +171,7 @@ Designed a business dashboard to analyze operational efficiency and order fulfil
 
 ---
 
-## 👥 Customer Churn Analysis Dashboard
+## Customer Churn Analysis Dashboard
 
 Built an interactive dashboard to identify customer churn patterns and improve retention strategies.
 
@@ -187,7 +187,7 @@ Built an interactive dashboard to identify customer churn patterns and improve r
 
 ---
 
-## 🌍 ESG Investment Strategy Framework
+##  ESG Investment Strategy Framework
 
 Designed an ESG-based investment evaluation framework for companies across India, UAE, and Africa.
 
@@ -203,7 +203,7 @@ Designed an ESG-based investment evaluation framework for companies across India
 
 ---
 
-## 🛒 Retail Sales Analytics
+##  Retail Sales Analytics
 
 Performed end-to-end business analytics using Power BI, SQL, and Excel.
 
@@ -220,7 +220,7 @@ Performed end-to-end business analytics using Power BI, SQL, and Excel.
 
 ---
 
-## 🗄 SQL Data Analysis Projects
+##  SQL Data Analysis Projects
 
 Solved real-world business problems using SQL.
 
@@ -236,7 +236,7 @@ Solved real-world business problems using SQL.
 
 ---
 
-## 🐍 Python Data Analysis Projects
+##  Python Data Analysis Projects
 
 Performed Exploratory Data Analysis (EDA) using Python.
 
@@ -258,20 +258,20 @@ Performed Exploratory Data Analysis (EDA) using Python.
 
 ---
 
-# 🌱 What Drives Me
+#  What Drives Me
 
-- 📊 Data-Driven Decision Making
-- 📈 Business Intelligence
-- 🧠 Analytical Thinking
-- 💡 Problem Solving
-- 📚 Continuous Learning
-- 🤝 Collaboration
-- 🚀 Building Impactful Dashboards
-- 📖 Turning Data into Business Stories
+-  Data-Driven Decision Making
+-  Business Intelligence
+-  Analytical Thinking
+-  Problem Solving
+-  Continuous Learning
+-  Collaboration
+-  Building Impactful Dashboards
+-  Turning Data into Business Stories
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Advanced Power BI
 - Advanced SQL
@@ -284,7 +284,7 @@ Performed Exploratory Data Analysis (EDA) using Python.
 
 ---
 
-# 📈 GitHub Goals
+#  GitHub Goals
 
 - Build real-world Data Analytics projects
 - Publish professional Power BI dashboards
@@ -295,21 +295,21 @@ Performed Exploratory Data Analysis (EDA) using Python.
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
-📧 **Email:**  
+ **Email:**  
 barangekhushi2@gmail.com
 
-💼 **LinkedIn:**  
+ **LinkedIn:**  
 https://www.linkedin.com/in/khushi-barange-b9161830a/
 
-💻 **GitHub:**  
+ **GitHub:**  
 https://github.com/khushi-barange
 
 ---
 
-# ⭐ Quote
+#  Quote
 
 > **"Data is not just numbers—it tells stories, reveals patterns, and empowers better decisions."**
 
-⭐ If you like my projects, feel free to explore my repositories and connect with me!
+ If you like my projects, feel free to explore my repositories and connect with me!
