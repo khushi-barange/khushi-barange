@@ -74,6 +74,7 @@ Working on real-world business analytics projects to support data-driven decisio
 
 - Designed and developed interactive Power BI dashboards for business reporting and KPI tracking.
 - Built dashboards including:
+  - Supply-Chain-Inventory-Analytics
   -  Sales Performance Dashboard
   -  Order Fulfillment Dashboard
   -  Customer Churn Dashboard
